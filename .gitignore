@@ -1,4 +1,5 @@
 .idea/
 .DS_Store
 client/assets/video/
+node_modules/
 
